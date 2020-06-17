@@ -1,2 +1,2 @@
 # sample
-tutorial
+動作確認テスト用
